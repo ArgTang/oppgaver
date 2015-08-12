@@ -16,7 +16,7 @@ Du kjenner en del __HTML__ tagger, så nå er det på tide å lage din første h
 ## Aktiviteter { .check}
 
 1. Åpne et __tekstprogram__. 
-2. Åpne filen som heter `om_meg.html`. Filen inneholder bittelitt HTMl kode for å hjelpe deg med å komme igang, men du må skrive resten selv.
+2. Åpne filen som heter `om_meg.html`. Filen inneholder bittelitt HTML kode for å hjelpe deg med å komme igang, men du må skrive resten selv.
 
 
 # Steg 2: Lag en hjemmeside om deg selv { .activity}
